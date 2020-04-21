@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-	
 	setlocale(LC_ALL, "ptb");
 	int codigo, qtde;
 	float valor=0.00;
